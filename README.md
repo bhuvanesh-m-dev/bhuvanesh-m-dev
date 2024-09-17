@@ -2,5 +2,6 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on open-source projects and innovative coding challenges
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: bhuvaneshm.developer@gmail.com
 - 😄 Pronouns: He/Him
+- PortFolio: bhuvaneshm.in
