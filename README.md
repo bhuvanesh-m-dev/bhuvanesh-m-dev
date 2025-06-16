@@ -7,7 +7,7 @@
 - 🌐 Portfolio: [bhuvaneshm.in](https://bhuvaneshm.in)  
 - 💼 LinkedIn: [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer/)  
 - ✍️ DEV Profile: [dev.to/bhuvaneshm_dev](https://dev.to/bhuvaneshm_dev)
-- 
+  
 ## 🚀 Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
 
 <p align="center">
