@@ -8,13 +8,14 @@
 - 💼 LinkedIn: [linkedin.com/in/bhuvaneshm-developer](https://www.linkedin.com/in/bhuvaneshm-developer/)  
 - ✍️ DEV Profile: [dev.to/bhuvaneshm_dev](https://dev.to/bhuvaneshm_dev)
   
-## 🚀 Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
+## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
 
 <p align="center">
-  <a href="https://bhuvaneshm.in/cosmotalker/" target="_blank">
+  <a href="https://bhuvaneshm.in/cosmotalker/" target="_blank" rel="noopener noreferrer">
     <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="600">
   </a>
 </p>
+
 
 
 ### I code in
