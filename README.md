@@ -16,6 +16,13 @@
   </a>
 </p>
 
+## 🧪 Try Cosmo4U: CosmoTalker for Debian-based Systems 🐧
+
+<p align="center">
+  <a href="https://bhuvaneshm.in/cosmo4u/" target="_blank" rel="noopener noreferrer">
+    <img src="https://bhuvaneshm.in/cosmo4u/image/cosmo4u.png" alt="Cosmo4U Preview" width="600">
+  </a>
+</p>
 
 
 ### I code in
