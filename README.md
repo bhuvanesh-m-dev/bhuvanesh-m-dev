@@ -23,7 +23,7 @@ It offers a simple checkbox-style interface to install essential tools like Git,
 
 **Key Features:**
 - 🐍 Built with native Python (Tkinter)
-- ✅ One-click APT & `.deb` installer
+- ✅ One-click App installer
 - 🔐 Built-in sudo password prompt
 - 🎯 Designed for clean Debian setups
 
