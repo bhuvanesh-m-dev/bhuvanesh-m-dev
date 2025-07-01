@@ -37,7 +37,7 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 ## (OR)
 
-> [⬇️ Download Setbian {For Debian 😉}](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.1/setbian-0.0.1.deb)
+> [⬇️ Download Setbian {For Debian 😉}](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.3/setbian-0.0.3.deb)
 
 
 ---
