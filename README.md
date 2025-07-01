@@ -27,7 +27,13 @@ It offers a simple checkbox-style interface to install essential tools like Git,
 - 🔐 Built-in sudo password prompt
 - 🎯 Designed for clean Debian setups
 
-> 📦 Try it now:  
+> 📦 Try it now:
+> ## 📦 Install Terminal Code
+
+```bash
+wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.1/setbian-0.0.1.deb && \
+  sudo dpkg -i setbian.deb || sudo apt --fix-broken install -y || setbian
+```
 > [⬇️ Download SetBian for Debian](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.1/setbian-0.0.1.deb)
 
 
