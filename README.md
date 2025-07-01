@@ -12,6 +12,26 @@
   </a>
 </p>
 
+
+## 🛠️ Featured Project – Setbian
+
+[Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight Debian post-installation GUI app built with Python.
+
+It offers a simple checkbox-style interface to install essential tools like Git, Curl, Firefox, VLC, VS Code, Telegram, and more — perfect for freshly installed Debian systems.
+
+![Setbian Screenshot](https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/setbian/screenshot1.png)
+
+**Key Features:**
+- 🐍 Built with native Python (Tkinter)
+- ✅ One-click APT & `.deb` installer
+- 🔐 Built-in sudo password prompt
+- 🎯 Designed for clean Debian setups
+
+> 📦 Try it now: [Download `.deb` package](https://github.com/bhuvanesh-m-dev/setbian/releases)
+
+---
+
+
 ## 🧪 Try Cosmo4U: CosmoTalker for Debian-based Systems 🐧
 
 <p align="center">
