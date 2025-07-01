@@ -28,7 +28,14 @@ It offers a simple checkbox-style interface to install essential tools like Git,
 - 🎯 Designed for clean Debian setups
 
 > 📦 Try it now:  
-> <body style="font-family: sans-serif; display: flex; justify-content: center; align-items: center; min-height: 100vh; background-color: #f0f0f0; margin: 0; flex-direction: column; gap: 20px;">
+> <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download SetBian for Debian</title>
+</head>
+<body style="font-family: sans-serif; display: flex; justify-content: center; align-items: center; min-height: 100vh; background-color: #f0f0f0; margin: 0; flex-direction: column; gap: 20px;">
 
     <h1 style="color: #333;">Download SetBian for Debian</h1>
 
@@ -163,6 +170,10 @@ It offers a simple checkbox-style interface to install essential tools like Git,
             }, 800); // Adjust this delay to match your desired animation time
         });
     </script>
+
+</body>
+</html>
+
 
 ---
 
