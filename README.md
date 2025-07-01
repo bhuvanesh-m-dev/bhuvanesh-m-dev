@@ -15,7 +15,7 @@
 
 ## 🛠️ Project – Setbian {For Debian 😉}
 
-[Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight Debian post-installation GUI app built with Python language.
+[Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight Debian post-installation GUI app built with Python Language.
 
 It offers a simple checkbox-style interface to install essential tools like Git, Curl, Firefox, VLC, VS Code, Telegram, and more — perfect for freshly installed Debian systems.
 
