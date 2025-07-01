@@ -27,7 +27,8 @@ It offers a simple checkbox-style interface to install essential tools like Git,
 - 🔐 Built-in sudo password prompt
 - 🎯 Designed for clean Debian setups
 
-> 📦 Try it now: [Download `.deb` package](https://github.com/bhuvanesh-m-dev/setbian/releases)
+> 📦 Try it now:  
+> [Download `.deb` package](https://github.com/bhuvanesh-m-dev/setbian/releases)
 
 ---
 
