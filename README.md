@@ -13,7 +13,7 @@
 </p>
 
 
-## 🛠️ Featured Project – Setbian
+## 🛠️ Project – Setbian
 
 [Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight Debian post-installation GUI app built with Python.
 
