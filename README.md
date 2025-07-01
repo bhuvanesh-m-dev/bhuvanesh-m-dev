@@ -34,6 +34,9 @@ It offers a simple checkbox-style interface to install essential tools like Git,
 wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.1/setbian-0.0.1.deb && \
   sudo dpkg -i setbian.deb || sudo apt --fix-broken install -y || setbian
 ```
+
+## (OR)
+
 > [⬇️ Download SetBian for Debian](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.1/setbian-0.0.1.deb)
 
 
