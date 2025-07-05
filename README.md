@@ -19,7 +19,7 @@
 
 It offers a simple checkbox-style interface to install essential tools like Git, Curl, Firefox, VLC, VS Code, Telegram, and more — perfect for freshly installed Debian systems.
 
-![Setbian Screenshot](https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/setbian/screenshot1.png)
+![Setbian Screenshot](https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/setbian/screenshot2.png)
 
 **Key Features:**
 - 🐍 Built with native Python (Tkinter)
