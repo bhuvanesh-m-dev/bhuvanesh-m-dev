@@ -1,8 +1,6 @@
-- 👋 Hi, I’m [@bhuvanesh-m-dev](https://github.com/bhuvanesh-m-dev)  
-- 👀 Passionate about programming and problem-solving  
-- 🌱 Currently upskilling and improving my core development skills  
-- 💡 Open to collaborating on open-source projects and innovative coding challenges  
-- 📢 Reach me at: **bhuvaneshm.developer@gmail.com**  
+👋 Hi, I’m BHUVANESH M  
+I’ve built some open-source projects — mainly two of them are presented below.
+
   
 ## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
 
