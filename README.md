@@ -1,15 +1,6 @@
 👋 Hi, I’m BHUVANESH M  
 I’ve built some open-source projects — mainly two of them are presented below.
 
-  
-## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
-
-<p align="center">
-  <a href="https://bhuvaneshm.in/cosmotalker/" target="_blank" rel="noopener noreferrer">
-    <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="600">
-  </a>
-</p>
-
 
 ## 🛠️ Project – Setbian {For Debian 😉}
 
@@ -39,6 +30,19 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 
 ---
+
+
+
+
+  
+## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
+
+<p align="center">
+  <a href="https://bhuvaneshm.in/cosmotalker/" target="_blank" rel="noopener noreferrer">
+    <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="600">
+  </a>
+</p>
+
 
 
 ## 🧪 Try Cosmo4U: CosmoTalker for Debian-based Systems 🐧
