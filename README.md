@@ -34,7 +34,7 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 <p align="center">
   <a href="https://bhuvaneshm.in/cosmotalker/" target="_blank" rel="noopener noreferrer">
-    <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="600">
+    <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="800">
   </a>
 </p>
 
