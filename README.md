@@ -28,13 +28,8 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 > [⬇️ Download Setbian {For Debian 😉}](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.3/setbian-0.0.3.deb)
 
-
 ---
 
-
-
-
-  
 ## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
 
 <p align="center">
@@ -44,14 +39,6 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 </p>
 
 
-
-## 🧪 Try Cosmo4U: CosmoTalker for Debian-based Systems 🐧
-
-<p align="center">
-  <a href="https://bhuvaneshm.in/cosmo4u/" target="_blank" rel="noopener noreferrer">
-    <img src="https://bhuvaneshm.in/cosmo4u/image/cosmo4u.png" alt="Cosmo4U Preview" width="400">
-  </a>
-</p>
 
 
 ### I code in
