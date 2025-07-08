@@ -41,9 +41,9 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 ---
 
+<img height="700" width="700" src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/android.png" alt="Android Badge" />
+✨ Honored to be recognized as a Top Android Author of the Week! Check out my work on Dev.to: [BHUVANESH M](https://dev.to/bhuvaneshm_dev)
 
-✨ Honored to be recognized as a Top Android Author of the Week! Check out my work on Dev.to: [BHUVANESH M on Dev.to](https://dev.to/bhuvaneshm_dev)
-<img height="70" width="70" src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/android.png" alt="Android Badge" />
 
 ---
 
