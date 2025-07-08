@@ -41,22 +41,25 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 ---
 
-<div style="text-align: center;">
-  <p>✨ Honored to be recognized as a <strong>Top Android Author of the Week</strong>!<br>
-     Check out my work on Dev.to: <a href="https://dev.to/bhuvaneshm_dev" target="_blank">BHUVANESH M</a>
-  </p>
+<p align="center">
+  ✨ <strong>Honored to be recognized as a Top Android Author of the Week!</strong><br>
+  Check out my work on Dev.to:  
+  <a href="https://dev.to/bhuvaneshm_dev" target="_blank"><strong>BHUVANESH M</strong></a>
+</p>
 
-  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/android.png"
-       alt="Android Badge" width="500" height="700"
-       style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/android.png" 
+       alt="Android Badge" width="500" height="700">
+</p>
 
-  <p>This is the badge-winning post:  
-    <a href="https://dev.to/bhuvaneshm_dev/my-google-io-experience-2025-by-invitation-from-google-developer-team-im4"
-       target="_blank">
-       My Google I/O Experience 2025 by invitation from Google Developer Team
-    </a>
-  </p>
-</div>
+<p align="center">
+  🏆 This is the badge-winning post:  
+  <a href="https://dev.to/bhuvaneshm_dev/my-google-io-experience-2025-by-invitation-from-google-developer-team-im4" 
+     target="_blank">
+     My Google I/O Experience 2025 by invitation from Google Developer Team
+  </a>
+</p>
+
 
 ---
 
