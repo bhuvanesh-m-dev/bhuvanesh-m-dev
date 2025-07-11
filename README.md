@@ -10,15 +10,23 @@ Language
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
-    <img src=" https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/setbian/screenshot2.png " alt="Setbian Screenshot" width="800">
+    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/setbian/screenshot2.png" alt="Setbian Screenshot" width="800">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
-    🎥 Watch Video Demo
+    🎥 Watch Setbian Demo Video
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
+    📺 Watch Socrates AI Video Demo
+  </a>
+</p>
+
+
 It offers a simple checkbox-style interface to install essential tools like Git, Curl, Firefox, VLC, VS Code, Telegram, and more — perfect for freshly installed Debian systems.
 
 
