@@ -20,11 +20,7 @@ Language
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
-    📺 Watch Socrates AI Video Demo
-  </a>
-</p>
+
 
 
 It offers a simple checkbox-style interface to install essential tools like Git, Curl, Firefox, VLC, VS Code, Telegram, and more — perfect for freshly installed Debian systems.
