@@ -4,14 +4,21 @@ I’ve built some open-source projects — mainly two of them are presented belo
 
 ## 🛠️ Project – Setbian {For Debian 😉}
 
-[Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight Debian post-installation GUI app built with Python Language.
+[Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight Debian post-installation GUI app built with Python 
+Language 
 
-<a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank">
-  <img src=" https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/setbian/screenshot2.png " alt="Setbian Screenshot">
-</a>
 
-[🎥 Watch Video Demo](https://www.youtube.com/watch?v=xyKAwq2ITIU)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
+    <img src=" https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/setbian/screenshot2.png " alt="Setbian Screenshot" width="800">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
+    🎥 Watch Video Demo
+  </a>
+</p>
 It offers a simple checkbox-style interface to install essential tools like Git, Curl, Firefox, VLC, VS Code, Telegram, and more — perfect for freshly installed Debian systems.
 
 
