@@ -4,9 +4,7 @@ I’ve built some open-source projects — mainly two of them are presented belo
 
 ## 🛠️ Project – Setbian {For Debian 😉}
 
-[Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight Debian post-installation GUI app built with Python 
-Language 
-
+[Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight post-installation GUI tool for Debian, built with Python. 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
