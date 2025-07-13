@@ -86,6 +86,4 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linux-terminal.png" alt="linux-terminal"/><img width="48" height="48" src="https://img.icons8.com/material-rounded/24/pypi.png" alt="pypi"/><img height="50" width="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />  
 
 ## ⚡ My GitHub Flow
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanesh-m-dev&theme=jolly&hide_border=true" alt="bhuvanesh-m-dev GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhuvanesh-m-dev&theme=jolly&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=bhuvanesh-m-dev&theme=jolly&hide_border=true)
