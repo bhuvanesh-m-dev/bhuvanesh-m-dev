@@ -90,6 +90,6 @@ I'm glad to share my continuous learning and contribution journey on GitHub!
 Check out my latest GitHub streak stats below — consistency is key to growth 🚀   
 Every contribution counts — I'm truly glad to be part of the open-source world 🌍💡   
 
-[Check out my dynamic GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bhuvanesh-m-dev&theme=jolly&hide_border=true)
+[Check out my dynamic GitHub Stats](https://bhuvanesh-m-dev.github.io/streak-stats/)
 > ⚠️ GitHub streaks follow UTC time. Actual local streak may differ slightly!
 
