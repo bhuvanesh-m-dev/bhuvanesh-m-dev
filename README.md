@@ -10,7 +10,7 @@ I’ve built some open-source projects — mainly two of them are presented belo
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
-    <img src="hhttps://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/images/screenshot/screenshot2.png" alt="Setbian Screenshot" width="800">
+    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/images/screenshot/screenshot2.png" alt="Setbian Screenshot" width="800">
   </a>
 </p>
 
