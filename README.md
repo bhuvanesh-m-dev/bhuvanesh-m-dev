@@ -96,4 +96,3 @@ Every contribution counts — I'm truly glad to be part of the open-source world
 > ⚠️ GitHub streaks follow UTC time. Actual local streak may differ slightly!
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanesh-m-dev&layout=compact&theme=github_dark)
