@@ -10,6 +10,25 @@ I’ve built some open-source projects — mainly two of them are presented belo
     <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="800">
   </a>
 </p>
+## 🏆 Recognition & Awards
+
+### Best Project Award – TASS (Tamil Nadu Astronomy and Space Science Society) via YASSC 2025  
+
+[![Award Badge](https://img.shields.io/badge/TASS-YASSC%202025%20Best%20Project-brightgreen?style=for-the-badge&logo=google-scholar)]()  
+[![Moon Man of India](https://img.shields.io/badge/Honoured%20by-Moon%20Man%20of%20India-blue?style=for-the-badge&logo=rocket)]
+
+- [**CosmoTalker**](https://github.com/bhuvaneshm-dev/cosmotalker) was selected as the **Best Project** at the *Youth Astronomy and Space Science Congress (YASSC 2025)*.  
+
+- Honoured with a **tribute medal** by the [**Moon Man of India**](https://en.wikipedia.org/wiki/Mylswamy_Annadurai) — the distinguished ISRO scientist who directed **Chandrayaan-1, Chandrayaan-2, and Mangalyaan (Mars Orbiter Mission)**.  
+
+- 📖 Read the full coverage on [Dev.to](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n).  
+
+- 📹 **Video Proof**:  
+  - [LinkedIn Post](https://lnkd.in/dnwmfdg4)  
+  - [Direct Video Proof](https://www.youtube.com/shorts/HLuEGEogcEM)  
+
+- 📷 **Memories from YASSC 2025**:  
+  - [Event Gallery & Photos with Scientists ](https://lnkd.in/dK2xZTbX)  
 
 
 ## 🛠️ Project – Setbian {For Debian 😉}
