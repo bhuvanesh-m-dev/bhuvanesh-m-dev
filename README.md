@@ -16,7 +16,7 @@ I’ve built some open-source projects — mainly two of them are presented belo
 
 ### Best Project Award – TASS (Tamil Nadu Astronomy and Space Science Society) via YASSC 2025  
 
-![Award Badge](https://img.shields.io/badge/TASS-YASSC%202025%20Best%20Project-brightgreen?style=for-the-badge&logo=google-scholar)![Moon Man of India](https://img.shields.io/badge/Honoured%20by-Moon%20Man%20of%20India-blue?style=for-the-badge&logo=rocket)
+![Award Badge](https://img.shields.io/badge/TASS-YASSC%202025%20Best%20Project-brightgreen?style=for-the-badge&logo=google-scholar) ![Moon Man of India](https://img.shields.io/badge/Honoured%20by-Moon%20Man%20of%20India-blue?style=for-the-badge&logo=rocket)
 
 - [**CosmoTalker**](https://github.com/bhuvanesh-m-dev/cosmotalker) was selected as the **Best Project** at the *Youth Astronomy and Space Science Congress (YASSC 2025)*.  
 
