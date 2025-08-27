@@ -3,6 +3,14 @@ I’ve built some open-source projects — mainly two of them are presented belo
 
 ![BHUVANESH M ](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
+
+<p align="center">
+  <a href="https://bhuvaneshm.in/cosmotalker/" target="_blank" rel="noopener noreferrer">
+    <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="800">
+  </a>
+</p>
+
 
 ## 🛠️ Project – Setbian {For Debian 😉}
 
@@ -44,15 +52,7 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 > [⬇️ Download Setbian {For Debian 😉}](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.3/setbian-0.0.3.deb)
 
----
 
-## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
-
-<p align="center">
-  <a href="https://bhuvaneshm.in/cosmotalker/" target="_blank" rel="noopener noreferrer">
-    <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="800">
-  </a>
-</p>
 
 ---
 
