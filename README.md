@@ -1,5 +1,5 @@
-👋 Hi, I’m BHUVANESH M   
-I’ve built some open-source projects — mainly two of them are presented below.
+Hi, I'm Bhuvanesh 👋  
+A software developer and open-source enthusiast building tools for the Linux & Python communities. My projects include the YASSC '25 award-winning.
 
 ![BHUVANESH M ](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
