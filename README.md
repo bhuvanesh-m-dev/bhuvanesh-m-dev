@@ -76,6 +76,16 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 ---
 
+### Discover ZentoraOS: AI-Ready Linux with Windows Familiarity 🐧
+
+<p align="center">
+  <a href="https://bhuvaneshm.in/zentoraos/" target="_blank" rel="noopener noreferrer">
+  <img src="URL_TO_YOUR_ZENTORAOS_BANNER_IMAGE.png" alt="ZentoraOS Project Preview" width="800">
+  </a>
+</p>
+
+---  
+
 <p align="center">
   ✨ <strong>Honored to be recognized as a Top Android Author of the Week!</strong><br>
   Check out my work on Dev.to:  
