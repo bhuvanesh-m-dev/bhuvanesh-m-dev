@@ -80,7 +80,7 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 <p align="center">
   <a href="https://bhuvaneshm.in/zentoraos/" target="_blank" rel="noopener noreferrer">
-  <img src="URL_TO_YOUR_ZENTORAOS_BANNER_IMAGE.png" alt="ZentoraOS Project Preview" width="800">
+  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/zentoraos/refs/heads/main/zentoraos.png" alt="ZentoraOS Project Preview" width="800">
   </a>
 </p>
 
