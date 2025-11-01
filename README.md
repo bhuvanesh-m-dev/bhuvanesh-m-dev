@@ -64,7 +64,7 @@ A software developer and open-source enthusiast building tools for the Linux & P
 </p>
 
 > **ZentoraOS** is an AI-ready Linux distribution blending the power of open-source with the familiarity of Windows — built for developers, researchers, and everyday users.  
-> Designed and maintained by **Bhuvanesh M**, ZentoraOS brings **offline AI capabilities** and an accessible Linux experience to everyone.
+> ZentoraOS brings **offline AI capabilities** and an accessible Linux experience to everyone.
 
 ---
 
