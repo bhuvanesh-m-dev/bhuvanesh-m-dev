@@ -80,7 +80,7 @@ A software developer and open-source enthusiast building tools for the Linux & P
 > The recognition was **completely organic** — no promotions or affiliations — showing how open-source innovation connects communities globally.
 
 📰 **Read the Blog:** [Presentando ZentoraOS – Q2B STUDIO](https://www.q2bstudio.com/nuestro-blog/16620/presentando-zentoraos)  
-🔗 **LinkedIn Post:** [Bhuvanesh Shares His Excitement](https://lnkd.in/dVxv98mc)
+🔗 **LinkedIn Post:** [https://www.linkedin.com/posts/bhuvaneshm-developer_presentando-zentoraos-activity-7384585749230141440-ON32](https://www.linkedin.com/posts/bhuvaneshm-developer_presentando-zentoraos-activity-7384585749230141440-ON32?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_h244BU9SYPooKWJADnzFk9PDs6zTgrL4)
 
 > “It’s inspiring to see ZentoraOS reach a global audience — a testament to the boundless impact of open-source projects.”  
 > — *Bhuvanesh M*
