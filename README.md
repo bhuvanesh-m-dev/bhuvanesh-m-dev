@@ -30,9 +30,105 @@ A software developer and open-source enthusiast building tools for the Linux & P
 
 - 📷 **Memories from YASSC 2025**:  
   - [Event Gallery & Photos with Scientists ](https://lnkd.in/dK2xZTbX)  
+---
 
 
-## 🛠️ Project – Setbian {For Debian 😉}
+<p align="center">
+  ✨ <strong>Honored to be recognized as a Top Android Author of the Week!</strong><br>
+  Check out my work on Dev.to:  
+  <a href="https://dev.to/bhuvaneshm_dev" target="_blank"><strong>BHUVANESH M</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/android.png" 
+       alt="Android Badge" width="500" height="700">
+</p>
+
+<p align="center">
+  🏆 This is the badge-winning post:  
+  <a href="https://dev.to/bhuvaneshm_dev/my-google-io-experience-2025-by-invitation-from-google-developer-team-im4" 
+     target="_blank">
+     My Google I/O Experience 2025 by invitation from Google Developer Team
+  </a>
+</p>
+
+---
+
+## 🐧 Discover ZentoraOS: AI-Ready Linux with Windows Familiarity
+
+<p align="center">
+  <a href="https://bhuvaneshm.in/zentoraos/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/zentoraos/refs/heads/main/zentoraos.png" 
+         alt="ZentoraOS Project Preview" width="800">
+  </a>
+</p>
+
+> **ZentoraOS** is an AI-ready Linux distribution blending the power of open-source with the familiarity of Windows — built for developers, researchers, and everyday users.  
+> Designed and maintained by **Bhuvanesh M**, ZentoraOS brings **offline AI capabilities** and an accessible Linux experience to everyone.
+
+---
+
+### 🌍 Featured Internationally by Q2B STUDIO (Spain)
+
+<p align="center">
+  <a href="https://lnkd.in/dVxv98mc" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Featured%20by-Q2B%20STUDIO%20(Spain)-blue?style=for-the-badge&logo=readme" alt="Q2B STUDIO Feature Badge">
+  </a>
+</p>
+
+> After its release, **ZentoraOS** caught the attention of **Q2B STUDIO**, a software development firm based in **Spain**, who featured it in their tech blog.  
+> The recognition was **completely organic** — no promotions or affiliations — showing how open-source innovation connects communities globally.
+
+📰 **Read the Blog:** [Presentando ZentoraOS – Q2B STUDIO](https://www.q2bstudio.com/nuestro-blog/16620/presentando-zentoraos)  
+🔗 **LinkedIn Post:** [Bhuvanesh Shares His Excitement](https://lnkd.in/dVxv98mc)
+
+> “It’s inspiring to see ZentoraOS reach a global audience — a testament to the boundless impact of open-source projects.”  
+> — *Bhuvanesh M*
+
+---
+
+### 🧭 Summary of the ZentoraOS Introduction Page
+
+- 🧠 **ZentoraOS** is a **Linux Mint–based** operating system designed to **blend a Windows-like interface** with **built-in AI capabilities** for both personal and business users.  
+- 💻 **Key Features:**
+  - Familiar Windows-style desktop for easy migration  
+  - Pre-installed Chromium browser for fast web access  
+  - Essential open-source software included by default  
+  - Integrated **offline AI features** powered by **Ollama models**  
+  - Built on **Linux Mint**, offering strong stability and security  
+- 🧩 **First Edition ISO** available under **GNU GPLv3 License**  
+- 🎯 **Goal:** Simplify the transition from Windows while empowering users with the intelligence and flexibility of Linux.
+
+---
+
+### 🏢 About Q2B STUDIO (Spain)
+
+**Q2B STUDIO** is a Spain-based software company focused on digital transformation through:
+- 💻 **Custom Software & App Development** (mobile and desktop)  
+- 🧠 **AI Solutions and Automation Agents**  
+- 🔒 **Cybersecurity Services**  
+- 📊 **Business Intelligence, Power BI, and Cloud Deployments (AWS & Azure)**  
+
+Their mission: to accelerate global innovation by merging **AI, open-source software, and secure infrastructure**.
+
+---
+
+### 🧠 Pre-Installed ZentoraOS Tools
+
+ZentoraOS comes preloaded with essential open-source utilities created by **Bhuvanesh M**, ensuring a developer-ready system right from the start.
+
+#### 🚀 1. PyLlamaUI  
+> A Python-powered lightweight desktop UI framework designed to integrate with local LLMs and AI APIs.
+
+**Features:**
+- 🐍 Built with Python & Tkinter  
+- 🤖 Seamlessly connects to **LLaMA**, **OpenAI**, and **Gemini APIs**  
+- ⚡ Lightweight and beginner-friendly for AI GUI projects  
+- 🧠 Ideal for **on-device AI experimentation**  
+
+---
+
+#### 🛠️ 2. Project – Setbian {For Debian 😉}
 
 [Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight post-installation GUI tool for Debian, built with Python. 
 
@@ -73,41 +169,7 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 > [⬇️ Download Setbian {For Debian 😉}](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.3/setbian-0.0.3.deb)
 
 
-
----
-
-### Discover ZentoraOS: AI-Ready Linux with Windows Familiarity 🐧
-
-<p align="center">
-  <a href="https://bhuvaneshm.in/zentoraos/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/zentoraos/refs/heads/main/zentoraos.png" alt="ZentoraOS Project Preview" width="800">
-  </a>
-</p>
-
----  
-
-<p align="center">
-  ✨ <strong>Honored to be recognized as a Top Android Author of the Week!</strong><br>
-  Check out my work on Dev.to:  
-  <a href="https://dev.to/bhuvaneshm_dev" target="_blank"><strong>BHUVANESH M</strong></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/android.png" 
-       alt="Android Badge" width="500" height="700">
-</p>
-
-<p align="center">
-  🏆 This is the badge-winning post:  
-  <a href="https://dev.to/bhuvaneshm_dev/my-google-io-experience-2025-by-invitation-from-google-developer-team-im4" 
-     target="_blank">
-     My Google I/O Experience 2025 by invitation from Google Developer Team
-  </a>
-</p>
-
-
----
-
+![BHUVANESH M ](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 ### I code in
