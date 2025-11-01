@@ -82,9 +82,6 @@ A software developer and open-source enthusiast building tools for the Linux & P
 📰 **Read the Blog:** [Presentando ZentoraOS – Q2B STUDIO](https://www.q2bstudio.com/nuestro-blog/16620/presentando-zentoraos)  
 🔗 **LinkedIn Post:** [https://www.linkedin.com/posts/bhuvaneshm-developer_presentando-zentoraos-activity-7384585749230141440-ON32](https://www.linkedin.com/posts/bhuvaneshm-developer_presentando-zentoraos-activity-7384585749230141440-ON32?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_h244BU9SYPooKWJADnzFk9PDs6zTgrL4)
 
-> “It’s inspiring to see ZentoraOS reach a global audience — a testament to the boundless impact of open-source projects.”  
-> — *Bhuvanesh M*
-
 ---
 
 ### 🧭 Summary of the ZentoraOS Introduction Page
@@ -99,19 +96,6 @@ A software developer and open-source enthusiast building tools for the Linux & P
 - 🧩 **First Edition ISO** available under **GNU GPLv3 License**  
 - 🎯 **Goal:** Simplify the transition from Windows while empowering users with the intelligence and flexibility of Linux.
 
----
-
-### 🏢 About Q2B STUDIO (Spain)
-
-**Q2B STUDIO** is a Spain-based software company focused on digital transformation through:
-- 💻 **Custom Software & App Development** (mobile and desktop)  
-- 🧠 **AI Solutions and Automation Agents**  
-- 🔒 **Cybersecurity Services**  
-- 📊 **Business Intelligence, Power BI, and Cloud Deployments (AWS & Azure)**  
-
-Their mission: to accelerate global innovation by merging **AI, open-source software, and secure infrastructure**.
-
----
 
 ### 🧠 Pre-Installed ZentoraOS Tools
 
