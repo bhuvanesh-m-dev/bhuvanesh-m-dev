@@ -29,7 +29,7 @@ A software developer and open-source enthusiast building tools for the Linux & P
   - [Direct Video Proof](https://www.youtube.com/shorts/HLuEGEogcEM)  
 
 - 📷 **Memories from YASSC 2025**:  
-  - [Event Gallery & Photos with Scientists ](https://lnkd.in/dK2xZTbX)  
+  - [Event Gallery & Photos with Scientists ](https://lnkd.in/dqXe2GRZ)  
 ---
 
 
