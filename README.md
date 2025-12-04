@@ -118,7 +118,7 @@ ZentoraOS comes preloaded with essential open-source utilities created by **Bhuv
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/images/screenshot/screenshot2.png" alt="Setbian Screenshot" width="800">
+    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/code%20files/images/screenshot/screenshot2.png" alt="Setbian Screenshot" width="800">
   </a>
 </p>
 
