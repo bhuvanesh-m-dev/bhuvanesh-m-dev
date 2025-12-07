@@ -29,8 +29,20 @@
 
 - 📷 **Memories from YASSC 2025**:  
   - [Event Gallery & Photos with Scientists ](https://lnkd.in/dqXe2GRZ)  
----
+---   
 
+## 🧭 Featured by KiteMetric for AI Design
+
+![KiteMetric Badge](https://img.shields.io/badge/FEATURED%20BY-KITEMETRIC-181818?style=for-the-badge&logoColor=white)
+
+
+**Oolit**, Machine Learning core of CosmoTalker's Ecosystem, precision-tuned with LoRA on vast space domain data to deliver expert-level reasoning in astronomy, astrophysics, and space exploration. Ideal for educational, research, and local open-source deployments.
+
+🔗 **Explore Oolit:**  https://bhuvanesh-m-dev.github.io/projects/oolit
+
+
+
+---   
 
 <p align="center">
   ✨ <strong>Honored to be recognized as a Top Android Author of the Week!</strong><br>
