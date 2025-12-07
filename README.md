@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40000&duration=1000&pause=1000&color=E7F7E9&background=1A1A1A00&multiline=true&width=1500&height=100&lines=Hi%2C+I'm+Bhuvanesh+M+%F0%9F%91%8B;Developer+crafting+AI-ready+Linux+tools+%26+open-source+software.;%F0%9F%8F%86+YASSC+%E2%80%9825+Award+Winner+%7C+%E2%AD%90+Trusted+by+4%2C700%2B+Dev.to+developers+%7C+%F0%9F%8C%90+Featured+internationally+for+open-source+innovation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40000&duration=2500&pause=1000&color=E7F7E9&background=1A1A1A00&multiline=true&width=1500&height=100&lines=Hi%2C+I'm+Bhuvanesh+M+%F0%9F%91%8B;Developer+crafting+AI-ready+Linux+tools+%26+open-source+software.;%F0%9F%8F%86+YASSC+%E2%80%9825+Award+Winner+%7C+%E2%AD%90+Trusted+by+4%2C700%2B+Dev.to+developers+%7C+%F0%9F%8C%90+Featured+internationally+for+open-source+innovation.)](https://git.io/typing-svg)
 
 ![BHUVANESH M ](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
