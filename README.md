@@ -93,7 +93,23 @@
 📰 **Read the Blog:** [Presentando ZentoraOS – Q2B STUDIO](https://www.q2bstudio.com/nuestro-blog/16620/presentando-zentoraos)  
 🔗 **LinkedIn Post:** [https://www.linkedin.com/posts/bhuvaneshm-developer_presentando-zentoraos-activity-7384585749230141440-ON32](https://www.linkedin.com/posts/bhuvaneshm-developer_presentando-zentoraos-activity-7384585749230141440-ON32?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_h244BU9SYPooKWJADnzFk9PDs6zTgrL4)
 
+---  
+
+## 📡 Featured by GyaanSetu AI (India)
+
+![GyaanSetu Badge](https://img.shields.io/badge/FEATURED%20BY-GYAANSETU%20AI-1A73E8?style=for-the-badge&logoColor=white)
+
+**ZentoraOS**, my AI-ready Linux distribution, was recently featured by **GyaanSetu AI**, who recognized it as a promising student-led open-source innovation bringing offline AI capabilities into a familiar Linux environment.  
+The feature highlights ZentoraOS for its vision, clean UX, and potential impact on learners, researchers, and early AI adopters in India.
+
+🔗 **Read the feature:**  
+https://lnkd.in/dFVpNMFG
+
+🔍 **More details about GyaanSetu AI:**  
+https://share.google/aimode/dhKcyk3baTVcuicig
+
 ---
+
 
 ### 🧭 Summary of the ZentoraOS Introduction Page
 
@@ -121,7 +137,6 @@ ZentoraOS comes preloaded with essential open-source utilities created by **Bhuv
 - ⚡ Lightweight and beginner-friendly for AI GUI projects  
 - 🧠 Ideal for **on-device AI experimentation**  
 
----
 
 #### 🛠️ 2. Project – Setbian {For Debian 😉}
 
@@ -161,7 +176,7 @@ wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download
 
 ## (OR)
 
-> [⬇️ Download Setbian {For Debian 😉}](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.3/setbian-0.0.3.deb)
+> [⬇️ Download Setbian {For Debian 😉}](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.5/setbian-0.0.5.deb)
 
 
 ![BHUVANESH M ](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
