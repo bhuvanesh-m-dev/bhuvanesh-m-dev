@@ -5,8 +5,8 @@
 ## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
 
 <p align="center">
-  <a href="https://bhuvaneshm.in/cosmotalker/" target="_blank" rel="noopener noreferrer">
-    <img src="https://bhuvaneshm.in/cosmotalker/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="800">
+  <a href="https://bhuvanesh-m-dev.github.io/cosmotalker" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/cosmotalker/refs/heads/main/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="800">
   </a>
 </p>
 
