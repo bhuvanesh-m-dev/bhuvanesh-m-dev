@@ -1,186 +1,167 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40000&duration=2500&pause=1000&color=E7F7E9&background=1A1A1A00&multiline=true&width=1500&height=100&lines=Hi%2C+I'm+Bhuvanesh+M+%F0%9F%91%8B;Developer+crafting+AI-ready+Linux+tools+%26+open-source+software.;%F0%9F%8F%86+YASSC+%E2%80%9825+Award+Winner+%7C+%E2%AD%90+Trusted+by+4%2C700%2B+Dev.to+developers+%7C+%F0%9F%8C%90+Featured+internationally+for+open-source+innovation.)](https://git.io/typing-svg)
-
-![BHUVANESH M ](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-## Explore CosmoTalker: Your Gateway to Space Tech with Python 🪐
-
 <p align="center">
-  <a href="https://bhuvanesh-m-dev.github.io/cosmotalker" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/cosmotalker/refs/heads/main/image/cosmotalker-github.png" alt="CosmoTalker Project Preview" width="800">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=E7F7E9&center=true&vCenter=true&width=1500&height=100&lines=Hi%2C+I'm+Bhuvanesh+M+%F0%9F%91%8B;Developer+crafting+AI-ready+Linux+tools+%26+open-source+software.;%F0%9F%8F%86+YASSC+%E2%80%9825+Award+Winner+%7C+Trusted+by+4%2C700%2B+Devs;Gateway+to+Space+Tech+with+Python+%F0%9F%AA%90" alt="Typing SVG" />
   </a>
 </p>
 
----   
-## 🏆 Recognition & Awards
-
-### Best Project Award – TASS (Tamil Nadu Astronomy and Space Science Society) via YASSC 2025  
-
-![Award Badge](https://img.shields.io/badge/TASS-YASSC%202025%20Best%20Project-brightgreen?style=for-the-badge&logo=google-scholar) ![Moon Man of India](https://img.shields.io/badge/Honoured%20by-Moon%20Man%20of%20India-blue?style=for-the-badge&logo=rocket)
-
-- [**CosmoTalker**](https://github.com/bhuvanesh-m-dev/cosmotalker) was selected as the **Best Project** at the *Youth Astronomy and Space Science Congress (YASSC 2025)*.  
-
-- Honoured with a **tribute medal** by the [**Moon Man of India**](https://en.wikipedia.org/wiki/Mylswamy_Annadurai) — the distinguished ISRO scientist who directed **Chandrayaan-1, Chandrayaan-2, and Mangalyaan (Mars Orbiter Mission)**.  
-
-- 📖 Read the full coverage on [Dev.to](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n).  
-
-- 📹 **Video Proof**:  
-  - [LinkedIn Post](https://lnkd.in/dnwmfdg4)  
-  - [Direct Video Proof](https://www.youtube.com/shorts/HLuEGEogcEM)  
-
-- 📷 **Memories from YASSC 2025**:  
-  - [Event Gallery & Photos with Scientists ](https://lnkd.in/dqXe2GRZ)  
----   
-
-## 🧭 Featured by KiteMetric for AI Design
-
-![KiteMetric Badge](https://img.shields.io/badge/FEATURED%20BY-KITEMETRIC-181818?style=for-the-badge&logoColor=white)
-
-
-**Oolit**, Machine Learning core of CosmoTalker's Ecosystem, precision-tuned with LoRA on vast space domain data to deliver expert-level reasoning in astronomy, astrophysics, and space exploration. Ideal for educational, research, and local open-source deployments.
-
-🔗 **Explore Oolit:**  https://bhuvanesh-m-dev.github.io/projects/oolit
-
-
-
----   
-
 <p align="center">
-  ✨ <strong>Honored to be recognized as a Top Android Author of the Week!</strong><br>
-  Check out my work on Dev.to:  
-  <a href="https://dev.to/bhuvaneshm_dev" target="_blank"><strong>BHUVANESH M</strong></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/android.png" 
-       alt="Android Badge" width="500" height="700">
-</p>
+<div align="center">
 
-<p align="center">
-  🏆 This is the badge-winning post:  
-  <a href="https://dev.to/bhuvaneshm_dev/my-google-io-experience-2025-by-invitation-from-google-developer-team-im4" 
-     target="_blank">
-     My Google I/O Experience 2025 by invitation from Google Developer Team
-  </a>
-</p>
+# 🪐 CosmoTalker
+### Your Gateway to Space Tech with Python
+
+<a href="https://bhuvanesh-m-dev.github.io/cosmotalker" target="_blank">
+  <img src="https://bhuvanesh-m-dev.github.io/img/cosmotalker.png" alt="CosmoTalker Dashboard" width="800" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
+</a>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Award%20Winning-gold?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🐧 Discover ZentoraOS: AI-Ready Linux with Windows Familiarity
+## 🏆 Recognition & Hall of Fame
 
-<p align="center">
-  <a href="https://bhuvaneshm.in/zentoraos/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/zentoraos/refs/heads/main/zentoraos.png" 
-         alt="ZentoraOS Project Preview" width="800">
-  </a>
-</p>
+**CosmoTalker** has been recognized for bridging the gap between open-source development and astronomy.
 
-> **ZentoraOS** is an AI-ready Linux distribution blending the power of open-source with the familiarity of Windows — built for developers, researchers, and everyday users.  
-> ZentoraOS brings **offline AI capabilities** and an accessible Linux experience to everyone.
+| Award | Details | Recognition |
+| :--- | :--- | :--- |
+| **Best Project** | **Youth Astronomy and Space Science Congress (YASSC 2025)**<br>Selected as the top innovation in space tech. | 🏅 **TASS / YASSC '25** |
+| **Honored By** | **Padma Shri Dr. Mylswamy Annadurai**<br>*(The "Moon Man of India" & Project Director of Chandrayaan-1/2 & Mangalyaan)* | 🚀 **ISRO Scientist** |
+
+### 🗞️ Media & Coverage
+> *"An innovative step forward for open source space technology."*
+
+* 📖 **Case Study:** [Read the full story on Dev.to](https://dev.to/bhuvaneshm_dev/cosmotalker-wins-best-project-at-tass-from-yassc-3a7n)
+* 📹 **Ceremony Highlights:** [Watch on YouTube](https://www.youtube.com/shorts/HLuEGEogcEM)
+* 👔 **Professional Update:** [View on LinkedIn](https://lnkd.in/dnwmfdg4)
+* 📸 **Event Gallery:** [Photos with Scientists](https://lnkd.in/dqXe2GRZ)
 
 ---
 
-### 🌍 Featured Internationally by Q2B STUDIO (Spain)
+## 🧭 Featured Innovation
 
-<p align="center">
-  <a href="https://lnkd.in/dVxv98mc" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Featured%20by-Q2B%20STUDIO%20(Spain)-blue?style=for-the-badge&logo=readme" alt="Q2B STUDIO Feature Badge">
-  </a>
-</p>
+> **Featured by KiteMetric for AI Design**
+>
+> ![KiteMetric Badge](https://img.shields.io/badge/KiteMetric-Featured-black?style=flat-square)
 
-> After its release, **ZentoraOS** caught the attention of **Q2B STUDIO**, a software development firm based in **Spain**, who featured it in their tech blog.  
-> The recognition was **completely organic** — no promotions or affiliations — showing how open-source innovation connects communities globally.
+### **Meet Oolit**
+The intelligent heart of CosmoTalker.
 
-📰 **Read the Blog:** [Presentando ZentoraOS – Q2B STUDIO](https://www.q2bstudio.com/nuestro-blog/16620/presentando-zentoraos)  
-🔗 **LinkedIn Post:** [https://www.linkedin.com/posts/bhuvaneshm-developer_presentando-zentoraos-activity-7384585749230141440-ON32](https://www.linkedin.com/posts/bhuvaneshm-developer_presentando-zentoraos-activity-7384585749230141440-ON32?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_h244BU9SYPooKWJADnzFk9PDs6zTgrL4)
+Oolit is a custom ML model **fine-tuned with LoRA** to master the language of the stars. By leveraging specific space-domain datasets, it offers high-precision reasoning for astronomy enthusiasts and researchers alike.
+
+* ✅ **Specialized:** Deep understanding of astrophysics.
+* ✅ **Open:** Built for local and open-source deployment.
+
+👉 [**See Oolit in Action**](https://bhuvanesh-m-dev.github.io/projects/oolit)
+
+
+
+---   
+
+<div align="center">
+
+## 🏆 Community Recognition
+### Top Android Author of the Week — Dev.to
+
+<a href="https://dev.to/bhuvaneshm_dev">
+  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/android.png" alt="Dev.to Android Badge" height="400" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+</a>
+
+<br><br>
+
+**Recognized for documentation on Google I/O 2025**
+
+This badge was awarded for my technical breakdown of the Google I/O experience as an invited developer.
+
+📝 [**Read the Winning Article**](https://dev.to/bhuvaneshm_dev/my-google-io-experience-2025-by-invitation-from-google-developer-team-im4)
+<br>
+👤 [**View Dev.to Profile**](https://dev.to/bhuvaneshm_dev)
+
+</div>
 
 ---  
+<div align="center">
 
-## 📡 Featured by GyaanSetu AI (India)
+# 🐧 ZentoraOS
+### The AI-Ready Linux for the Modern Developer
 
-![GyaanSetu Badge](https://img.shields.io/badge/FEATURED%20BY-GYAANSETU%20AI-1A73E8?style=for-the-badge&logoColor=white)
+<a href="https://bhuvaneshm.in/zentoraos/">
+  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/zentoraos/refs/heads/main/zentoraos.png" width="800" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
+</a>
 
-**ZentoraOS**, my AI-ready Linux distribution, was recently featured by **GyaanSetu AI**, who recognized it as a promising student-led open-source innovation bringing offline AI capabilities into a familiar Linux environment.  
-The feature highlights ZentoraOS for its vision, clean UX, and potential impact on learners, researchers, and early AI adopters in India.
+<br><br>
 
-🔗 **Read the feature:**  
-https://lnkd.in/dFVpNMFG
+![Base](https://img.shields.io/badge/Base-Linux_Mint-green?style=for-the-badge&logo=linuxmint&logoColor=white)
+![AI Core](https://img.shields.io/badge/AI_Core-Ollama-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
-🔍 **More details about GyaanSetu AI:**  
-https://share.google/aimode/dhKcyk3baTVcuicig
+<p width="80%">
+  <b>ZentoraOS</b> bridges the gap between Windows familiarity and Linux power. It comes pre-configured with <b>offline AI capabilities (Ollama)</b>, essential developer tools, and a polished UI, making the transition seamless for researchers and coders.
+</p>
+
+</div>
 
 ---
 
+## 🌍 Global Recognition
 
-### 🧭 Summary of the ZentoraOS Introduction Page
+**ZentoraOS** has bridged communities from Spain to India through organic open-source adoption.
 
-- 🧠 **ZentoraOS** is a **Linux Mint–based** operating system designed to **blend a Windows-like interface** with **built-in AI capabilities** for both personal and business users.  
-- 💻 **Key Features:**
-  - Familiar Windows-style desktop for easy migration  
-  - Pre-installed Chromium browser for fast web access  
-  - Essential open-source software included by default  
-  - Integrated **offline AI features** powered by **Ollama models**  
-  - Built on **Linux Mint**, offering strong stability and security  
-- 🧩 **First Edition ISO** available under **GNU GPLv3 License**  
-- 🎯 **Goal:** Simplify the transition from Windows while empowering users with the intelligence and flexibility of Linux.
+| Region | Featured By | Details |
+| :--- | :--- | :--- |
+| **🇪🇸 Spain** | **Q2B STUDIO** | Featured in their tech blog as a top emerging OS. Recognized organically for its cross-border appeal.<br>🔗 [**Read Article**](https://www.q2bstudio.com/nuestro-blog/16620/presentando-zentoraos) |
+| **🇮🇳 India** | **GyaanSetu AI** | Recognized as a promising student-led innovation bringing offline AI to the masses.<br>🔗 [**Read Feature**](https://lnkd.in/dFVpNMFG) |
 
+---
 
-### 🧠 Pre-Installed ZentoraOS Tools
+## 🛠️ The Zentora Toolchain (Pre-installed)
 
-ZentoraOS comes preloaded with essential open-source utilities created by **Bhuvanesh M**, ensuring a developer-ready system right from the start.
+ZentoraOS isn't just an OS; it's a development suite. It comes pre-loaded with these custom open-source tools.
 
-#### 🚀 1. PyLlamaUI  
-> A Python-powered lightweight desktop UI framework designed to integrate with local LLMs and AI APIs.
+### 1. PyLlamaUI 🦙
+**The Lightweight AI Interface**
 
-**Features:**
-- 🐍 Built with Python & Tkinter  
-- 🤖 Seamlessly connects to **LLaMA**, **OpenAI**, and **Gemini APIs**  
-- ⚡ Lightweight and beginner-friendly for AI GUI projects  
-- 🧠 Ideal for **on-device AI experimentation**  
+<img align="right" width="150" src="https://raw.githubusercontent.com/bhuvanesh-m-dev/pyllamaui/refs/heads/main/PyLlamaUI.png">
 
+A Python/Tkinter framework designed to integrate local LLMs and AI APIs into a GUI.
 
-#### 🛠️ 2. Project – Setbian {For Debian 😉}
+* **Stack:** Python, Tkinter
+* **Integrations:** LLaMA, OpenAI, Gemini
+* **Goal:** Enable on-device AI experimentation without the command line.
 
-[Setbian](https://github.com/bhuvanesh-m-dev/setbian) is a lightweight post-installation GUI tool for Debian, built with Python. 
+[**🌐 Visit Website**](https://bhuvanesh-m-dev.github.io/pyllamaui)
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/code%20files/images/screenshot/screenshot2.png" alt="Setbian Screenshot" width="800">
-  </a>
-</p>
+<br clear="all">
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=xyKAwq2ITIU" target="_blank" rel="noopener noreferrer">
-    🎥 Watch Setbian Demo Video
-  </a>
-</p>
+### 2. Setbian 📦
+**Post-Install Automation for Debian**
 
+<img align="right" width="150" src="https://raw.githubusercontent.com/bhuvanesh-m-dev/setbian/refs/heads/main/setbian.png">
 
+A GUI-based setup tool to instantly configure a fresh Debian/Mint environment with essential apps (VS Code, Git, VLC, etc.).
 
+* **Features:** One-click installs, `sudo` handling, clean UI.
+* **Ecosystem:**
+    * [📲 **App Portal**](https://bhuvanesh-m-dev.github.io/setbian/app-portal/) (Discover Apps)
+    * [🚀 **Publish Your App**](https://bhuvanesh-m-dev.github.io/setbian/app-portal/publish-your-app/) (Submit to Setbian)
 
-It offers a simple checkbox-style interface to install essential tools like Git, Curl, Firefox, VLC, VS Code, Telegram, and more — perfect for freshly installed Debian systems.
-
-
-**Key Features:**
-- 🐍 Built with native Python (Tkinter)
-- ✅ One-click Applications installer
-- 🔐 Built-in sudo password prompt
-- 🎯 Designed for clean Debian setups
-
-> ## 📦 Try it now:
->💻 Install via Terminal Code
-
+#### ⚡ Quick Install
 ```bash
-wget -O setbian.deb https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.5/setbian-0.0.5.deb && \
-  sudo dpkg -i setbian.deb || sudo apt --fix-broken install -y || setbian
+wget -O setbian.deb [https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.5/setbian-0.0.5.deb](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.5/setbian-0.0.5.deb) && \
+sudo dpkg -i setbian.deb || sudo apt --fix-broken install -y || setbian
 ```
 
-## (OR)
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </p>
 
-> [⬇️ Download Setbian {For Debian 😉}](https://github.com/bhuvanesh-m-dev/setbian/releases/download/v0.0.5/setbian-0.0.5.deb)
-
-
-![BHUVANESH M ](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
+---
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
