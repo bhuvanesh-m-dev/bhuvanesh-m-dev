@@ -27,13 +27,13 @@
 
 ---
 
-## 🏆 Recognition & Hall of Fame
+## 🏆 Recognition 
 
 **CosmoTalker** has been recognized for bridging the gap between open-source development and astronomy.
 
 | Award | Details | Recognition |
 | :--- | :--- | :--- |
-| **Best Project** | **Youth Astronomy and Space Science Congress (YASSC 2025)**<br>Selected as the top innovation in space tech. | 🏅 **TASS / YASSC '25** |
+| **Best Project** | **Youth Astronomy and Space Science Congress (YASSC 2025)**<br>Selected as the Best innovation in space tech. | 🏅 **TASS / YASSC '25** |
 | **Honored By** | **Padma Shri Dr. Mylswamy Annadurai**<br>*(The "Moon Man of India" & Project Director of Chandrayaan-1/2 & Mangalyaan)* | 🚀 **ISRO Scientist** |
 
 ### 🗞️ Media & Coverage
