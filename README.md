@@ -197,12 +197,27 @@ sudo dpkg -i setbian.deb || sudo apt --fix-broken install -y || setbian
 <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </p>
 
 
-## ⚡ My GitHub Flow
-I'm glad to share my continuous learning and contribution journey on GitHub!     
-Check out my latest GitHub streak stats below — consistency is key to growth 🚀   
-Every contribution counts — I'm truly glad to be part of the open-source world 🌍💡   
+<div align="center">
 
-[Check out my dynamic GitHub Stats](https://bhuvaneshm.in/github/)
-> ⚠️ GitHub streaks follow UTC time. Actual local streak may differ slightly!
+## ⚡ My GitHub Flow
+### Consistency is Key to Growth 🚀
+
+<p>
+  Every contribution counts. I'm glad to be part of the open-source world 🌍💡
+</p>
+
+<a href="https://bhuvaneshm.in/github/">
+  <img src="https://raw.githubusercontent.com/bhuvanesh-m-dev/bhuvanesh-m-dev/refs/heads/main/storage/2025-with-github.png" alt="2025 GitHub Contribution Graph" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
+</a>
+
+<br>
+
+### 📊 [**View Dynamic GitHub Stats & Streaks**](https://bhuvanesh-m-dev.github.io/github/)
+
+<br>
+
+> ⚠️ **Note:** GitHub streaks follow UTC time. Actual local streak may differ slightly!
+
+</div>
 
 ---
