@@ -60,7 +60,8 @@ Oolit is a custom ML model **fine-tuned with LoRA** to master the language of th
 * ✅ **Specialized:** Deep understanding of astrophysics.
 * ✅ **Open:** Built for local and open-source deployment.
 
-👉 [**See Oolit in Action**](https://bhuvanesh-m-dev.github.io/projects/oolit)
+👉 [**See Oolit in Action**](https://bhuvanesh-m-dev.github.io/projects/oolit)  
+👉[**Oolit Blog Post**](https://kitemetric.com/blogs/introducing-oolit-your-offline-ai-chatbot-for-cosmotalker)
 
 
 
@@ -137,7 +138,8 @@ A Python/Tkinter framework designed to integrate local LLMs and AI APIs into a G
 * **Integrations:** LLaMA, OpenAI, Gemini
 * **Goal:** Enable on-device AI experimentation without the command line.
 
-[**🌐 Visit Website**](https://bhuvanesh-m-dev.github.io/pyllamaui)
+[**🌐 Visit Website**](https://bhuvanesh-m-dev.github.io/pyllamaui)  
+[**👉See PyLlamaUI Blog Post**](https://tsecurity.de/de/2919145/IT+Programmierung/%F0%9F%A6%99+Introducing+PyllamaUI+%E2%80%93+Python+%2B+Ollama+%2B+User+Interface/)
 
 <br clear="all">
 
