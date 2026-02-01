@@ -1,7 +1,7 @@
 <h3 align="center">
     🎉 You are my &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/bhuvanesh-m-dev">
-        <img src="https://count.getloli.com/@:bhuvanesh-m-dev?theme=" alt=":bhuvanesh-m-dev" />
+        <img src="https://count.getloli.com/@bhuvanesh-m-dev?name=bhuvanesh-m-dev&theme=ai-1&padding=13&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":bhuvanesh-m-dev" />
     </a>
     &nbsp;&nbsp;&nbsp;visitor. Thank You 😍 
 </h3>
