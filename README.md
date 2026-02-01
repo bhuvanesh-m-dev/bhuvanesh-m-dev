@@ -1,3 +1,14 @@
+<h3 align="center">
+    🎉 You are my &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/bhuvanesh-m-dev">
+        <img src="https://count.getloli.com/@:bhuvanesh-m-dev?theme=" alt=":bhuvanesh-m-dev" />
+    </a>
+    &nbsp;&nbsp;&nbsp;visitor. Thank You 😍 
+</h3>
+
+
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=E7F7E9&center=true&vCenter=true&width=1500&height=100&lines=Hi%2C+I'm+Bhuvanesh+M+%F0%9F%91%8B;Developer+crafting+AI-ready+Linux+tools+%26+open-source+software.;%F0%9F%8F%86+YASSC+%E2%80%9825+Award+Winner+%7C+Trusted+by+4%2C700%2B+Devs;Gateway+to+Space+Tech+with+Python+%F0%9F%AA%90" alt="Typing SVG" />
